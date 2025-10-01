@@ -25,5 +25,6 @@ You are free to use,modify and distribute it.
 
 ## Author
 -Frankline Mwangi
+
 Pull requests are welcome!
 If you'd like to make improvements or add features, fork the repo and submit a PR.
