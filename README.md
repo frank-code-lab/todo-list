@@ -15,11 +15,11 @@ It lets users add, view, and remove tasks through a simple text menu.
 2. Open a terminal and navigate to the project folder.
 3. Run the app:
 python todo_app.py
-4. Clone this repository
-### 2. Clone this Repository
-```bash
+   
+## Clone this Repository
 git clone https://github.com/frank-code-lab/todo-list.git
 cd todo-list
+or download the ZIP from GitHub and extract it.
 
 
 ## License
@@ -29,5 +29,6 @@ You are free to use,modify and distribute it.
 ## Author
 -Frankline Mwangi
 
+## Contribution
 Pull requests are welcome!
 If you'd like to make improvements or add features, fork the repo and submit a PR.
