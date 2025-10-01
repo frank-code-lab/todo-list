@@ -16,8 +16,11 @@ It lets users add, view, and remove tasks through a simple text menu.
 3. Run the app:
 python todo_app.py
 4. Clone this repository
-git clone https://github.com/your-username/todo-list.git
+### 2. Clone this Repository
+```bash
+git clone https://github.com/frank-code-lab/todo-list.git
 cd todo-list
+
 
 ## License
 This project is licensed under the MIT License.
